@@ -16,7 +16,7 @@ Engajar a comunidade local em práticas ecológicas, como o plantio de árvores 
 
 Proporcionar um meio simples e acessível para os participantes se inscreverem em eventos e caminhadas de conscientização.
 
-🔧 Funcionalidades
+-- Funcionalidades
 
 Página de cadastro e login para usuários se inscreverem no site.
 
@@ -26,7 +26,7 @@ Perfil de usuário, permitindo que participantes acompanhem sua participação e
 
 Sistema de plantio de árvores, incentivando os participantes a contribuírem ativamente com o meio ambiente.
 
-🧑‍💻 Tecnologias Utilizadas
+-- Tecnologias Utilizadas
 
 HTML: Estruturação do conteúdo e layout da página.
 
